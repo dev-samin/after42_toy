@@ -17,7 +17,6 @@ function saveName(text)
 {
     localStorage.setItem(USER_LS, text)
 }
-
 function askForName() {
     form.classList.add(SHOWING_CN);
     form.addEventListener("submit", handleSubmit);
