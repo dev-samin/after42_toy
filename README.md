@@ -1,12 +1,12 @@
 # after42_toy
-#jolim
+# jolim
 
-#njeong
+# njeong
 
-#samin
+# samin
 
-#seujang
+# seujang
 
-#shchoi
+# shchoi
 
-#ynoh
+# ynoh
