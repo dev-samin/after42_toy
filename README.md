@@ -6,7 +6,7 @@
 <hr/>
 
 # samin
-바닐라js 클론코딩에서 배운것.   
+**바닐라js 클론코딩에서 배운것.**   
 변수 let, var, const   
 배열 array   
 객체 object   
