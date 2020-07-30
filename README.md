@@ -1,11 +1,5 @@
 # after42_toy
-# jolim
-<hr/>
 
-# njeong
-<hr/>
-
-# samin
 **바닐라js 클론코딩에서 배운것.**   
 변수 let, var, const   
 배열 array   
@@ -31,14 +25,4 @@ localStorage.getItem("key");
 **이벤트 버블링 방지**   
 event.preventDefault();   
 
-<hr/>
-
-# seujang
-
-<hr/>
-
-# shchoi
-<hr/>
-
-# ynoh
 <hr/>
