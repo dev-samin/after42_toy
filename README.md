@@ -25,4 +25,14 @@ localStorage.getItem("key");
 **이벤트 버블링 방지**   
 event.preventDefault();   
 
+**JASON**   
+JASON.stringify(); object를 string으로 변환 시켜줌   
+JASON.parse();   
+
+**event**
+event.target();   
+요소.removechild(요소);   
+
+**ETC**   
+console.dir(); 계층관계 확인할수 있다.   
 <hr/>
